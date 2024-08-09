@@ -1,0 +1,10 @@
+/* Define a custom font family */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Gupter:wght@400;500;700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Protest+Revolution&family=Protest+Riot&display=swap');
+/* Styling for the h1 element */
+
+
+
+.logo1 {
+    /* border-radius: 8px; */
+    width: 150px;
+}
